@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sethmina Kolambaarachchi</h1>
-<h3 align="center">Software Engineering Undergraduate | Front End Developer | Tech Enthusiast</h3>
+<h1 align="center">
+  <span class="typed-text">Hi 👋, I'm Sethmina Kolambaarachchi</span>
+</h1>
+
+<style>
+.typed-text {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid #00ADB5; /* cursor color */
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  color: #00ADB5; /* change this color as you like */
+  animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #00ADB5; }
+}
+</style><h3 align="center">Software Engineering Undergraduate | Front End Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansethmina2002&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansethmina2002" /> </p>
 
