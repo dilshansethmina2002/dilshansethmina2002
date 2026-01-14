@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Sethmina;Software+Engineering+Undergraduate;Front-End+Developer;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Sethmina;Software+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast" alt="Typing Animation" />
 
   <br/><br/>
 
